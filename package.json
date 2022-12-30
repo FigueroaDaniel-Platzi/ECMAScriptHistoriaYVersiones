@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/FigueroaDaniel/platziECMAScriptHistoriaYVersiones/issues"
   },
-  "homepage": "https://github.com/FigueroaDaniel/platziECMAScriptHistoriaYVersiones#readme"
+  "homepage": "https://github.com/FigueroaDaniel/platziECMAScriptHistoriaYVersiones#readme",
+  "type": "module" 
 }
